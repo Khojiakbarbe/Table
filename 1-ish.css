@@ -1,0 +1,14 @@
+table, tr, td {
+border: 2px solid grey;
+border-collapse: collapse;
+}
+table{
+    width: 30%;
+}
+table{
+    color: black;
+    background-color: darkgray;
+}
+table{
+    text-align: center;
+}
